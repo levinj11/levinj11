@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @levinj11
-- 📫 How to reach me: Github
+- 📫 Reach me on github
 - 😄 Pronouns: he/him
 
 <!---
